@@ -6,6 +6,8 @@ font-family: "Mulish", sans-serif;
 
 }
 
+/*-------------------- Header --------------------*/
+
 nav {
     background-color: #47555e !important;  
 }
@@ -14,15 +16,22 @@ nav {
     background-color: #47555e !important;
  }
 
+/*-------------------- Section --------------------*/
 
+/*-------------------- Footer --------------------*/
 
 .nav-footer {
     background-color: #47555e;
     color: #fff;
-    height: 170px;
+    height: 200px;
     text-align: center;
 }
 
 .uppercase {
     text-transform: uppercase;
+}
+
+.footer-header {
+    letter-spacing: 2px;
+    margin-top: 5%;
 }
