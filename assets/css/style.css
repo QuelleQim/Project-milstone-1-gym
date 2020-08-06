@@ -1,4 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap');
+
+body {
+font-family: "Mulish", sans-serif;
+}
+
+}
+
+nav {
+    background-color: #47555e !important;  
+}
+
 .bg-light {
     background-color: #47555e !important;
  }
 
+
+
+.nav-footer {
+    background-color: #47555e;
+    color: #fff;
+    height: 170px;
+    text-align: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
