@@ -16,11 +16,16 @@ nav {
     background-color: #47555e !important;
  }
 
-/*-------------------- Section --------------------*/
+/*-------------------- Index Section --------------------*/
 
 .large-section-image {
     height: 300px;
     width: 100%;
+}
+
+.card-img-top {
+    max-width: 100%;
+    height: auto;
 }
 
 /*-------------------- Footer --------------------*/
