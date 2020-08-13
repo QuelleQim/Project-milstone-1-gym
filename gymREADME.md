@@ -33,6 +33,16 @@ https://unsplash.com/photos/Lx_GDv7VA9M
 Image used for the 'Why crossfit?' section in the index.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
 https://unsplash.com/photos/V3GnMeRhnjk
 
+Image used for the trainer "Honorine" in the trainers.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
+https://unsplash.com/photos/b-JycIqgtS4
+
+Image used for the trainer "Martin" in the trainers.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
+https://unsplash.com/photos/kUN69w8jb4U
+
+Image used for the trainer "Sara" in the trainers.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
+https://unsplash.com/photos/AFP680B7mxc
+
+
 Font Awesome icons from fontawesome.com:
 https://fontawesome.com/
 
