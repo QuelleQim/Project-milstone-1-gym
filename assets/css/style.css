@@ -18,6 +18,7 @@ nav {
 
 body header nav div ul {
     margin: 0 0 0 2%;
+    
 }
 
  body header nav div ul li a {
@@ -39,6 +40,19 @@ body header nav div ul {
 .card-title {
     text-align: center;
 }
+
+/*-------------------- Trainers --------------------*/
+
+.worker-image {
+    border-radius: 50%;
+    width: 40%;
+    height: auto;
+}
+
+
+
+/*-------------------- Schedule & Prizing --------------------*/
+
 
 /*-------------------- Footer --------------------*/
 
