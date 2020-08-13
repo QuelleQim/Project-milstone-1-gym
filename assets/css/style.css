@@ -28,12 +28,17 @@ nav {
     height: auto;
 }
 
+.card-title {
+    text-align: center;
+}
+
 /*-------------------- Footer --------------------*/
 
 .nav-footer {
     background-color: #47555e;
     color: #fff;
-    height: 200px;
+    width: 100%;
+    height: auto;
     text-align: center;
 }
 
@@ -52,4 +57,11 @@ nav {
 
 .social-links-color {
     color: #fff;
+}
+
+footer div h6 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5%;
+    line-height: 130%;
 }
