@@ -9,11 +9,19 @@ font-family: "Mulish", sans-serif;
 /*-------------------- Header --------------------*/
 
 nav {
-    background-color: #47555e !important;  
+    background-color: #47555e;  
 }
 
 .bg-light {
     background-color: #47555e !important;
+ }
+
+body header nav div ul {
+    margin: 0 0 0 2%;
+}
+
+ body header nav div ul li a {
+     font-size: 20px;
  }
 
 /*-------------------- Index Section --------------------*/

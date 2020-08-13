@@ -1,11 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" />
+	<link rel="stylesheet" href="assets/css/style.css" />
+
+	<title>Stux Crossbox</title>
 </head>
+
 <body>
-    
+	<header>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-light">
+			<a href="index.html" class="navbar-brand">
+				<img
+            src="assets/images/stux_crossbox.png"
+            width="175"
+            height="90"
+            alt="Company logo"
+          />
+				<!--<span></span> add aria hidden and sr support?-->
+			</a>
+
+			<button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<!--add the active  -->
+						<a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item active">
+						<a class="nav-link" href="workers.html">Workers</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="schedule-prizing.html">Schedule & Prizing</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+    <section>
+        <img src="assets/images/tobias-tullius-cut.jpg" class="img-fluid large-section-image" alt="Responsive image"/>
+        <p>Workers</p>
+    </section>
+
+	<footer>
+		<div class="container-fluid nav-footer">
+			<div class="row">
+				<div class="col-sm-4">
+					<h5 class="uppercase footer-header">Contact info</h5>
+					<h6>
+						Stux Crossbox
+						<br />
+              stux-crossbox@crossfit.com
+						<br />
+              0701234567
+						<br />
+              Stuxbergs kulle 41
+						<br />
+              13758, Vega
+            </h6>
+				</div>
+				<div class="col-sm-4">
+					<h5 class="uppercase footer-header">Opening hours</h5>
+					<h6>
+						Monday - friday:
+						<br />
+                        7am - 8pm
+						<br />
+                        Saturday:
+						<br />
+                        8am - 7pm
+						<br />
+                        Sunday:
+						<br />
+                         10am - 8pm
+            </h6>
+				</div>
+				<div class="col-sm-4">
+					<h5 class="uppercase footer-header">Social media</h5>
+					<h6 class="social-links">
+                        <a href="https://www.facebook.com/" target="_blank" class="social-links-color">
+                            <i class="fab fa-facebook-square"></i>
+                        </a>
+                        <a href="https://www.instagram.com/" target="_blank" class="social-links-color">
+						    <i class="fab fa-instagram-square"></i>
+                        </a>
+                        <a href="https://www.twitter.com/" target="_blank" class="social-links-color">
+						    <i class="fab fa-twitter-square"></i>
+                        </a>
+                        <a href="https://www.youtube.com/" target="_blank" class="social-links-color">
+						    <i class="fab fa-youtube-square"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/" target="_blank" class="social-links-color">
+						    <i class="fab fa-linkedin"></i>
+                        </a>
+					</h6>
+				</div>
+			</div>
+		</div>
+	</footer>
 </body>
+
 </html>
