@@ -47,8 +47,31 @@ Feature 6 - Find us: allows users to find the gym by using the embedded google m
 the address set.
 
 
+Technologies Used
+
+In this section, you should mention all of the languages, frameworks, libraries,
+and any other tools that you have used to construct this project. For each,
+provide its name, a link to its official site and a short sentence of why it was used.
+
+    JQuery
+        The project uses JQuery to simplify DOM manipulation.
+
+Languages
+- HTML
+- CSS
+
+Framework
+- Bootstrap
+    The project uses Bootstrap to simplify the structural development of the webpages HTML and CSS.
+https://getbootstrap.com/
 
 
+
+
+Credits
+
+
+Content
 
 Company Logo made with the online tool hatchful.shopify.com:
 https://hatchful.shopify.com/
@@ -64,6 +87,12 @@ https://getbootstrap.com/docs/4.5/content/images/
 
 Large section image made by Tobias Tullius via unsplashed, thank you Tobias! Link:
 https://unsplash.com/photos/PXXtq6bp6cs 
+
+Information about crossfit from wikipedia:
+https://en.wikipedia.org/wiki/CrossFit
+
+
+Media
 
 Image used for the 'About us' section in the index.html file is made by Victor Freitas via unsplashed, thank you Victor! Link:
 https://unsplash.com/photos/Yuv-iwByVRQ
@@ -88,3 +117,14 @@ https://fontawesome.com/
 
 Card groups from bootstrap:
 https://getbootstrap.com/docs/4.5/components/card/#header-and-footer
+
+
+Acknowledgements
+
+I received visuall and structural inspiration for this project from: 
+
+Vega crossfit
+https://www.vegacrossfit.se/
+
+Crossfit Unique
+https://crossfitunique.com/
