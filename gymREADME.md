@@ -1,4 +1,4 @@
-Stux Crossbox project1
+# Stux Crossbox project1
 
 Hi and welcome to Stux Crossbox project1 README file!
 
@@ -9,9 +9,9 @@ as a local crossfit box with information about the gym,
 where it resides, a schedule for the classes, prizing
 and information about the employes. 
 
-UX
+## UX
 
-User stories
+### User stories
 -	As a user, I want a schedule so that I can see when there are classes
 -	As a user, I want info about the workers, so that I know what their skills and experience are
 -	As a user, I want a map and directions, so I know where the crossfit box is and how to get there
@@ -20,12 +20,12 @@ User stories
 -	As a user, I want a social media links, to learn more about and get insight to the gym
 -	As a user, I want a prizing list, so that I know how much it costs
 
-Owner stories
+### Owner stories
 -	As a owner, I want to have a visually appealing and fully functioning website, so that it can compete with other companies and crossfit boxes
 -	As a owner, I want to market the gym via social media, so that people can establish a conection with the gym
 -	As a owner, I want to have a company logo prominent throughout the website, which will clarify the owner of the website
 
-Existing Features
+## Existing Features
 
 Feature 1 - index.html (Homepage) > header: allows users to navigate throughout 
 the website to the pages "Home", "Trainers", "Schedule & Prizing" and "Find us".
@@ -47,77 +47,88 @@ Feature 6 - Find us: allows users to find the gym by using the embedded google m
 the address set.
 
 
-Technologies Used
+## Technologies Used
 
-Languages
+### Languages
 - HTML
 - CSS
 
-Framework
+### Framework
 - Bootstrap
     The project uses Bootstrap to simplify the structural development of the webpages HTML and CSS.
 https://getbootstrap.com/
 
-
-
-
-Credits
-
-
-Content
-
-Company Logo made with the online tool hatchful.shopify.com:
-https://hatchful.shopify.com/
-
-Navbar from bootstrap:
-https://getbootstrap.com/docs/4.0/components/navbar/
-
-Button in navbar from bootstrap:
-https://getbootstrap.com/docs/4.5/components/buttons/
-
-Large section image in section created with bootstrap:
-https://getbootstrap.com/docs/4.5/content/images/
-
-Large section image made by Tobias Tullius via unsplashed, thank you Tobias! Link:
-https://unsplash.com/photos/PXXtq6bp6cs 
-
-Information about crossfit from wikipedia:
-https://en.wikipedia.org/wiki/CrossFit
-
-
-Media
-
-Image used for the 'About us' section in the index.html file is made by Victor Freitas via unsplashed, thank you Victor! Link:
-https://unsplash.com/photos/Yuv-iwByVRQ
-
-Image used for the 'Qoutes from members' section in the index.html file is made by Sven Mieke via unsplashed, thank you Sven! Link:
-https://unsplash.com/photos/Lx_GDv7VA9M
-
-Image used for the 'Why crossfit?' section in the index.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
-https://unsplash.com/photos/V3GnMeRhnjk
-
-Image used for the trainer "Honorine" in the trainers.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
-https://unsplash.com/photos/b-JycIqgtS4
-
-Image used for the trainer "Martin" in the trainers.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
-https://unsplash.com/photos/kUN69w8jb4U
-
-Image used for the trainer "Sara" in the trainers.html file is made by Alora Griffiths via unsplashed, thank you Alora! Link:
-https://unsplash.com/photos/AFP680B7mxc
-
-Font Awesome icons from fontawesome.com:
+### Library
+- Fontawesome
+    The project used fontawesome icons to make the webpage more intuitive and more visually appealing.
 https://fontawesome.com/
 
-Card groups from bootstrap:
-https://getbootstrap.com/docs/4.5/components/card/#header-and-footer
+
+## Testing
 
 
-Acknowledgements
+
+## Deployment
+
+
+
+## Credits
+
+### Content
+
+[link to Google!](http://google.com)
+
+Company Logo made with the online tool [hatchful.shopify.com](https://hatchful.shopify.com/)
+
+
+Navbar from [bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
+
+
+Button in navbar from [bootstrap](https://getbootstrap.com/docs/4.5/components/buttons/)
+
+
+Large section image in section created with [bootstrap](https://getbootstrap.com/docs/4.5/content/images/)
+
+
+Large section image made by Tobias Tullius via [unsplashed](https://unsplash.com/photos/PXXtq6bp6cs), thank you Tobias!
+
+
+Information about crossfit from [wikipedia](https://en.wikipedia.org/wiki/CrossFit)
+
+
+
+### Media
+
+Image used for the 'About us' section in the index.html file is made by Victor Freitas via [unsplashed](https://unsplash.com/photos/Yuv-iwByVRQ), thank you Victor!
+
+
+Image used for the 'Qoutes from members' section in the index.html file is made by Sven Mieke via [unsplashed](https://unsplash.com/photos/Lx_GDv7VA9M), thank you Sven!
+
+
+Image used for the 'Why crossfit?' section in the index.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/V3GnMeRhnjk), thank you Alora!
+
+
+Image used for the trainer "Honorine" in the trainers.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/b-JycIqgtS4), thank you Alora!
+
+
+Image used for the trainer "Martin" in the trainers.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/kUN69w8jb4U), thank you Alora!
+
+
+Image used for the trainer "Sara" in the trainers.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/AFP680B7mxc), thank you Alora!
+
+
+Font Awesome icons from [fontawesome](https://fontawesome.com/)
+
+
+Card groups from [bootstrap](https://getbootstrap.com/docs/4.5/components/card/#header-and-footer)
+
+
+
+### Acknowledgements
 
 I received visuall and structural inspiration for this project from: 
 
-Vega crossfit
-https://www.vegacrossfit.se/
+[Vega crossfit](https://www.vegacrossfit.se/)
 
-Crossfit Unique
-https://crossfitunique.com/
+
+[Crossfit Unique](https://crossfitunique.com/)
