@@ -76,15 +76,13 @@ https://fontawesome.com/
 
 ### Content
 
-[link to Google!](http://google.com)
-
 Company Logo made with the online tool [hatchful.shopify.com](https://hatchful.shopify.com/)
 
 
 Navbar from [bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
 
 
-Button in navbar from [bootstrap](https://getbootstrap.com/docs/4.5/components/buttons/)
+Far left logo button in navbar from [bootstrap](https://getbootstrap.com/docs/4.5/components/buttons/)
 
 
 Large section image in section created with [bootstrap](https://getbootstrap.com/docs/4.5/content/images/)
