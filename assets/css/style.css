@@ -54,6 +54,23 @@ body header nav div ul {
 /*-------------------- Schedule & Prizing --------------------*/
 
 
+
+/*-------------------- Find Us --------------------*/
+
+.google-maps-div {
+    max-width: 100%; 
+    height: auto;
+    display: table;
+    margin: 0 auto;
+
+}
+
+.google-maps-text {
+    margin: 20px 0 20px 0; 
+    text-align: center;
+}
+
+
 /*-------------------- Footer --------------------*/
 
 .nav-footer {
