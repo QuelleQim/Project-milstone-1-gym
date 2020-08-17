@@ -67,6 +67,13 @@ body header nav div ul {
 
 /*-------------------- Schedule & Prizing --------------------*/
 
+.container-text-schedule {
+    text-align: center;
+}
+
+.prizing-heading {
+    text-align: center;
+}
 
 
 /*-------------------- Find Us --------------------*/
