@@ -79,17 +79,37 @@ body header nav div ul {
 .table-header {
     background-color: #47555e;
     color: #fff;
-    padding: 10px 10px 5px 10px;
+    padding: 10px 15px 5px 15px;
 }
 
 .table-content {
-    background-color: #e6e6e6
-    }
-
-.schedule-table-container {
-    margin: 10px 10px 10px 10px;   
+    background-color: #e6e6e6;
+    padding: 5px 15px 5px 15px;
 }
 
+.schedule-table-container {
+    margin: 10px 0 10px 0;   
+}
+
+.prizing-header {
+    text-align: center;
+    padding: 10px 15px 5px 15px;
+}
+
+#gold {
+    background-color: #999900;
+    color: #fff;
+}
+
+#silver {
+    background-color: #808080;
+    color: #fff;
+}
+
+#bronze {
+    background-color: #994d00;
+    color: #fff;
+}
 
 
 
