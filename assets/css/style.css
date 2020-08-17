@@ -87,8 +87,8 @@ body header nav div ul {
     padding: 5px 15px 5px 15px;
 }
 
-.schedule-table-container {
-    margin: 10px 0 10px 0;   
+.schedule-prizing-table-container {
+    margin: 10px 0 20px 0;   
 }
 
 .prizing-header {
@@ -96,17 +96,17 @@ body header nav div ul {
     padding: 10px 15px 5px 15px;
 }
 
-#gold {
+#prize-gold {
     background-color: #999900;
     color: #fff;
 }
 
-#silver {
+#prize-silver {
     background-color: #808080;
     color: #fff;
 }
 
-#bronze {
+#prize-bronze {
     background-color: #994d00;
     color: #fff;
 }
@@ -166,6 +166,10 @@ section div p {
 .social-links-color {
     color: #fff;
 }
+
+ .contact-links {
+     color: #fff;
+ }
 
 footer div h6 {
     padding-top: 5px;
