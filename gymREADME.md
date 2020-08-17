@@ -52,6 +52,7 @@ the address set.
 ### Languages
 - HTML
 - CSS
+    The project is built up on HTML and CSS to make the basic structure of the webpage and to style it.
 
 ### Framework
 - Bootstrap
@@ -63,6 +64,10 @@ https://getbootstrap.com/
     The project used fontawesome icons to make the webpage more intuitive and more visually appealing.
 https://fontawesome.com/
 
+### Other Technologies
+- Google maps
+    The project uses an embedded google map to make it easier for users to locate the company.
+https://developers.google.com/maps/gmp-get-started
 
 ## Testing
 
