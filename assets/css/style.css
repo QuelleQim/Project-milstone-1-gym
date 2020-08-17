@@ -71,9 +71,26 @@ body header nav div ul {
     text-align: center;
 }
 
-.prizing-heading {
+.schedule-heading {
     text-align: center;
+    margin: 20px 0 20px 0; 
 }
+
+.table-header {
+    background-color: #47555e;
+    color: #fff;
+    padding: 10px 10px 5px 10px;
+}
+
+.table-content {
+    background-color: #e6e6e6
+    }
+
+.schedule-table-container {
+    margin: 10px 10px 10px 10px;   
+}
+
+
 
 
 /*-------------------- Find Us --------------------*/
