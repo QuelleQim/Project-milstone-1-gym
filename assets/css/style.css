@@ -73,10 +73,9 @@ body header nav div ul {
 
 .google-maps-div {
 display: block;
-
+max-width: 50%;
+height: auto;
 }
-
-
 
 .google-maps {
     max-width: 100%; 
@@ -85,11 +84,14 @@ display: block;
     display: table;
     margin: 0 auto;
     text-align: center;
-
 }
 
-.google-maps-text {
+.google-maps-heading {
     margin: 20px 0 20px 0; 
+    text-align: center;
+}
+
+section div p {
     text-align: center;
 }
 
