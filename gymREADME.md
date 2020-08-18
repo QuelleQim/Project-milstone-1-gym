@@ -69,6 +69,7 @@ https://fontawesome.com/
     The project uses an embedded google map to make it easier for users to locate the company.
 https://developers.google.com/maps/gmp-get-started
 
+
 ## Testing
 
 
@@ -97,6 +98,9 @@ Large section image made by Tobias Tullius via [unsplashed](https://unsplash.com
 
 
 Information about crossfit from [wikipedia](https://en.wikipedia.org/wiki/CrossFit)
+
+
+Bootstrap schedule inspiration from [Vega Crossfit schedule section](https://www.vegacrossfit.se/#schema)
 
 
 
@@ -130,7 +134,6 @@ Card groups from [bootstrap](https://getbootstrap.com/docs/4.5/components/card/#
 ### Acknowledgements
 
 I received visuall and structural inspiration for this project from: 
-
 [Vega crossfit](https://www.vegacrossfit.se/)
 
 
