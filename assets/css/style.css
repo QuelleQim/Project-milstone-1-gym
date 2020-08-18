@@ -43,9 +43,9 @@ body header nav div ul {
 
 /*-------------------- Trainers --------------------*/
 
-.trainer-container {
+/* .trainer-container {
     max-width: 50%;
-}
+} */
 
 .worker-image {
     max-width: 100%;
@@ -61,7 +61,11 @@ body header nav div ul {
 } 
 
 .trainer-heading {
-    padding: 20px 0 5px 0;
+    padding: 30px 0 10px 0;
+}
+
+.trainer-paragraph {
+    margin: 0 0 30px 0;
 }
 
 
