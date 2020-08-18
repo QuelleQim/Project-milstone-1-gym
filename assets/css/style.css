@@ -87,42 +87,44 @@ body header nav div ul {
     padding: 5px 15px 5px 15px;
 }
 
-.schedule-prizing-table-container {
+.schedule-pricing-table-container {
     margin: 10px 0 20px 0;   
     min-width: 140px;
 }
 
-.prizing-header {
+.pricing-header {
     text-align: center;
     padding: 10px 15px 5px 15px;
 }
 
-#prize-gold {
+#price-gold {
     background-color: #999900;
     color: #fff;
 }
 
-#prize-silver {
+#price-silver {
     background-color: #808080;
     color: #fff;
 }
 
-#prize-bronze {
+#price-bronze {
     background-color: #994d00;
     color: #fff;
 }
 
-.col-md-4 .col-lg-3 {
+/* .col-md-4 .col-lg-3 {
     text-align: center;
-}
+} */
 
 
 
 /*-------------------- Find Us --------------------*/
 
+
+
 .google-maps-div {
 display: block;
-max-width: 50%;
+/* max-width: 50%; */
 height: auto;
 }
 
