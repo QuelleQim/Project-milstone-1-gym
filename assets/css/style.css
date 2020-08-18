@@ -89,6 +89,7 @@ body header nav div ul {
 
 .schedule-prizing-table-container {
     margin: 10px 0 20px 0;   
+    min-width: 140px;
 }
 
 .prizing-header {
@@ -109,6 +110,10 @@ body header nav div ul {
 #prize-bronze {
     background-color: #994d00;
     color: #fff;
+}
+
+.col-md-4 .col-lg-3 {
+    text-align: center;
 }
 
 
