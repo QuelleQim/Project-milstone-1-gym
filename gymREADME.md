@@ -64,6 +64,11 @@ https://getbootstrap.com/
     The project used fontawesome icons to make the webpage more intuitive and more visually appealing.
 https://fontawesome.com/
 
+- w3schools
+    The project used w3shools online color picker to easily find and test diffrent colors for the prizing headings.
+https://www.w3schools.com/colors/colors_picker.asp
+
+
 ### Other Technologies
 - Google maps
     The project uses an embedded google map to make it easier for users to locate the company.
