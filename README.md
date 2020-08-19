@@ -1,5 +1,4 @@
 # Stux Crossbox project1
-
 Hi and welcome to Stux Crossbox project1 README file!
 
 Welcome to the Stux Crossbox readme.md file! This is a
@@ -26,7 +25,6 @@ and information about the employes.
 -	As a owner, I want to have a company logo prominent throughout the website, which will clarify the owner of the website
 
 ## Existing Features
-
 Feature 1 - index.html (Homepage) > header: allows users to navigate throughout 
 the website to the pages "Home", "Trainers", "Schedule & Pricing" and "Find us".
 
@@ -56,23 +54,31 @@ the address set.
 
 ### Framework
 - Bootstrap
+    
     The project uses Bootstrap to simplify the structural development of the webpages HTML and CSS.
 https://getbootstrap.com/
 
 ### Library
 - Fontawesome
+    
     The project used fontawesome icons to make the webpage more intuitive and more visually appealing.
 https://fontawesome.com/
 
 - w3schools
+    
     The project used w3shools online color picker to easily find and test diffrent colors for the pricing headings.
 https://www.w3schools.com/colors/colors_picker.asp
 
 
 ### Other Technologies
 - Google maps
+    
     The project uses an embedded google map to make it easier for users to locate the company.
 https://developers.google.com/maps/gmp-get-started
+
+- Favicon.ico and app icon generator
+    The project uses a favicon made with the favicon.ico generator tool. The image is a cropped version of the company logo.
+    https://www.favicon-generator.org/
 
 
 ## Testing
@@ -86,7 +92,6 @@ https://developers.google.com/maps/gmp-get-started
 ## Credits
 
 ### Content
-
 Company Logo made with the online tool [hatchful.shopify.com](https://hatchful.shopify.com/)
 
 
@@ -110,7 +115,6 @@ Bootstrap schedule inspiration from [Vega Crossfit schedule section](https://www
 
 
 ### Media
-
 Image used for the 'About us' section in the index.html file is made by Victor Freitas via [unsplashed](https://unsplash.com/photos/Yuv-iwByVRQ), thank you Victor!
 
 
@@ -137,7 +141,6 @@ Card groups from [bootstrap](https://getbootstrap.com/docs/4.5/components/card/#
 
 
 ### Acknowledgements
-
 I received visuall and structural inspiration for this project from: 
 [Vega crossfit](https://www.vegacrossfit.se/)
 
