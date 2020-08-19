@@ -11,18 +11,18 @@ and information about the employes.
 ## UX
 
 ### User stories
--	As a user, I want a schedule so that I can see when there are classes
--	As a user, I want info about the workers, so that I know what their skills and experience are
--	As a user, I want a map and directions, so I know where the crossfit box is and how to get there
--	As a user, I want contact information, so that I can contact the company 
--	As a user, I want to see opening hours, so that I know when I can come
--	As a user, I want a social media links, to learn more about and get insight to the gym
--	As a user, I want a pricing list, so that I know how much it costs
+-	As a user, I want contact information, so that I can contact the company.
+-	As a user, I want to see opening hours, so that I know when I can come.
+-	As a user, I want a social media links, to learn more about and get insight to the gym.
+-	As a user, I want info about the trainers, so that I know what their skills and experience are.
+-   As a user, I want a schedule so that I can see when the classes take place.
+-	As a user, I want a pricing list, so that I know how much it costs.
+-	As a user, I want a map and directions, so I know where the crossfit box is and how to get there.
 
 ### Owner stories
--	As a owner, I want to have a visually appealing and fully functioning website, so that it can compete with other companies and crossfit boxes
--	As a owner, I want to market the gym via social media, so that people can establish a conection with the gym
--	As a owner, I want to have a company logo prominent throughout the website, which will clarify the owner of the website
+-	As a owner, I want to have a visually appealing and fully functioning website, so that it can compete with other companies and crossfit boxes.
+-	As a owner, I want to have a company logo prominent throughout the website, which will clarify the owner of the website.
+-	As a owner, I want to market the gym via social media, so that people can establish a conection with the gym.
 
 ## Existing Features
 Feature 1 - index.html (Homepage) > header: allows users to navigate throughout 
@@ -82,7 +82,50 @@ https://developers.google.com/maps/gmp-get-started
 
 
 ## Testing
+1. Contact information
+    1. Go to the 'Home' page
+    1. Scroll down to the footer section and on a computer screen and tablet look to the far left and on a mobile look at the top of the footer.
+    1. See that all the contact information is present (company name, email address, phone number, adress).
+    1. Press the email address and see if it promts the computer or mobile to open a email app/client and that the correct email is shown.
+    1. Press the phone number and see if it promts the computer or mobile to open a phone app and that the correct number is shown.
 
+1. Opening hours
+    1. Go to the 'Home' page 
+    1. Scroll down to the footer section and on a computer screen, tablet and phone look to the middle of the footer.
+    1. See that all the opening hours information is present (Monay - Friday: 7am - 8pm  Saturday: 8am - 7pm  Sunday: 10am - 8pm).
+    1. See if the opening hours are centered across the devices and underneath the 'OPENING HOURS' heading.
+
+1. Social media links
+    1. Go to the 'Home' page 
+
+
+1. Trainers
+    1. Go to the 'Trainers' page 
+
+1. Schedule
+    1. Go to the 'Schedule & Pricing' page 
+
+1. Pricing
+    1. Go to the 'Schedule & Pricing' page 
+
+1. Map
+    1. Go to the 'Find Us' page 
+
+1. Appealing and responsive website
+    1. Go to the 'Home' page 
+
+1. Company logo
+    1. Got to the 'Trainers' page.
+    1. Look at the far left on a computer and tablet and on the top with a mobile to comfirm the presence of a company logo.
+    1. Press the company logo and confirm that you are redirected to the 'Home' page.
+    1. Repeat the process with all of the pages on the website and confirm that all of them redirect to the 'Home' page.
+
+
+
+    Go to the "Contact Us" page
+    Try to submit the empty form and verify that an error message about the required fields appears
+    Try to submit the form with an invalid email address and verify that a relevant error message appears
+    Try to submit the form with all inputs valid and verify that a success message appears.
 
 
 ## Deployment
