@@ -92,41 +92,45 @@ https://developers.google.com/maps/gmp-get-started
 1. Opening hours
     1. Go to the 'Home' page 
     1. Scroll down to the footer section and on a computer screen, tablet and phone look to the middle of the footer.
-    1. See that all the opening hours information is present (Monay - Friday: 7am - 8pm  Saturday: 8am - 7pm  Sunday: 10am - 8pm).
+    1. See that all the opening hours information is present (Monday - Friday: 7am - 8pm  Saturday: 8am - 7pm  Sunday: 10am - 8pm).
     1. See if the opening hours are centered across the devices and underneath the 'OPENING HOURS' heading.
 
 1. Social media links
     1. Go to the 'Home' page 
-
+    1. Scroll down to the footer section and on a computer screen, tablet and look to the far right and phone look to the bottom of the footer.
+    1. See that all the five social link icons are present (Facebook, Instagram, Twitter, Youtube and Linkedin).
+    1. See if the social links are centered underneath the 'SOCIAL LINKS' across all devices and change color once hovered.
+    1. Click all the social links seperatly and see if they open up in new tabs across devices. 
 
 1. Trainers
     1. Go to the 'Trainers' page 
+    1. Scroll down to the section underneath the header and 'TRAINERS' heading and see if the three trainer images and information is visible and centered on the page across devices.
 
 1. Schedule
-    1. Go to the 'Schedule & Pricing' page 
+    1. Go to the 'Schedule & Pricing' page
+    1. Scroll down to the section underneath the header and 'SCHEDULE' heading and see if the weekly schedule divided in two is visible and centered on the page across devices (Monday, tuesday, wednesday on one row, thursday and friday on a row beneath).
 
 1. Pricing
-    1. Go to the 'Schedule & Pricing' page 
+    1. Go to the 'Schedule & Pricing' page
+    1. Scroll down to the section underneath the header, schedule and 'PRICING' heading and see if the three pricing options are visible and centered on the page across devices.
 
 1. Map
-    1. Go to the 'Find Us' page 
+    1. Go to the 'Find Us' page
+    1. Scroll down to the section underneath the header and see if the map and directions is underneath the 'FIND US' heading, is visible and centered on the page across devices.
+    1. Click to see if the map is responsive and direct us to google.com/maps in a new tab with the correct address.
 
 1. Appealing and responsive website
-    1. Go to the 'Home' page 
+    1. Go to the 'Home' page.
+    1. Look at the structural layout to see if the page is intuitive, appeling, varying in content and intressting. See if the page is funtional by testen all the funtions again.
+    1. See if there is some form of delay to the page, if there is delay investigate what it is due to.
+    1. Repeat procedure with all the remaining pages of the website.
 
 1. Company logo
     1. Got to the 'Trainers' page.
     1. Look at the far left on a computer and tablet and on the top with a mobile to comfirm the presence of a company logo.
     1. Press the company logo and confirm that you are redirected to the 'Home' page.
     1. Repeat the process with all of the pages on the website and confirm that all of them redirect to the 'Home' page.
-
-
-
-    Go to the "Contact Us" page
-    Try to submit the empty form and verify that an error message about the required fields appears
-    Try to submit the form with an invalid email address and verify that a relevant error message appears
-    Try to submit the form with all inputs valid and verify that a success message appears.
-
+    
 
 ## Deployment
 
