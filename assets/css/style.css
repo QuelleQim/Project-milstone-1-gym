@@ -4,7 +4,6 @@ body {
 font-family: "Mulish", sans-serif;
 }
 
-}
 
 /*-------------------- Header --------------------*/
 
@@ -14,7 +13,7 @@ nav {
 
 .bg-light {
     background-color: #47555e !important;
- }
+}
 
 body header nav div ul {
     margin: 0 0 0 2%;
@@ -23,7 +22,8 @@ body header nav div ul {
 
  body header nav div ul li a {
      font-size: 21px;
- }
+}
+
 
 /*-------------------- Index Section --------------------*/
 
@@ -41,11 +41,8 @@ body header nav div ul {
     text-align: center;
 }
 
-/*-------------------- Trainers --------------------*/
 
-/* .trainer-container {
-    max-width: 50%;
-} */
+/*-------------------- Trainers --------------------*/
 
 .worker-image {
     max-width: 100%;
@@ -116,15 +113,8 @@ body header nav div ul {
     color: #fff;
 }
 
-/* .col-md-4 .col-lg-3 {
-    text-align: center;
-} */
-
-
 
 /*-------------------- Find Us --------------------*/
-
-
 
 .google-maps-div {
 display: block;
@@ -180,7 +170,7 @@ section div p {
 
  .contact-links {
      color: #fff;
- }
+}
 
 footer div h6 {
     padding-top: 5px;
