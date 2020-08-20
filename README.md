@@ -108,7 +108,7 @@ https://developers.google.com/maps/gmp-get-started
 
 1. Schedule
     1. Go to the 'Schedule & Pricing' page
-    1. Scroll down to the section underneath the header and 'SCHEDULE' heading and see if the weekly schedule divided in two is visible and centered on the page across devices (Monday, tuesday, wednesday on one row, thursday and friday on a row beneath).
+    1. Scroll down to the section underneath the header and 'SCHEDULE' heading and see if the weekly schedule divided in two is visible and centered on the page across devices (Monday, tuesday, wednesday on one row, thursday and friday on a row beneath, exept for the medium viewport whereas Friday appears on a seperate row).
 
 1. Pricing
     1. Go to the 'Schedule & Pricing' page
