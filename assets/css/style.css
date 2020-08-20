@@ -129,6 +129,7 @@ height: auto;
     display: table;
     margin: 0 auto;
     text-align: center;
+    border: none;
 }
 
 .google-maps-heading {
