@@ -77,7 +77,7 @@ https://www.w3schools.com/colors/colors_picker.asp
 https://developers.google.com/maps/gmp-get-started
 
 - Favicon.ico and app icon generator
-    The project uses a favicon made with the favicon.ico generator tool. The image is a cropped version of the company logo.
+    The project uses a favicon made with the favicon.ico generator tool to make the page more visually appealing. The image is a cropped version of the company logo.
     https://www.favicon-generator.org/
 
 
@@ -134,6 +134,15 @@ https://developers.google.com/maps/gmp-get-started
 
 ## Deployment
 
+1. How I deployed my project to gitpages.
+    1. I logged in to my github account, clicked my 'Stux-Crossbox-project1' repository and clicked 'settings'.
+    1. I scrolled down to GitHub Pages and in 'Source' I clicked to option 'master' and then pressed the 'Save' button.
+    1. After a couple of hours the project was uploaded to gitpages and responsive.
+
+Since the gitpage is rooted from the repositorys master branch there is no difference between the gitpage and github repository, exept for a minor delay of a few minutes.
+
+To run the project locally one needs to clone the repository and open it in a web browser. Unfortunatly, the google maps in find-us.html might not work due to the API key that needs to be correlated with the web address.
+
 
 
 ## Credits
@@ -145,13 +154,12 @@ Company Logo made with the online tool [hatchful.shopify.com](https://hatchful.s
 Navbar from [bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
 
 
-Far left logo button in navbar from [bootstrap](https://getbootstrap.com/docs/4.5/components/buttons/)
+Far left company logo button in navbar from [bootstrap](https://getbootstrap.com/docs/4.5/components/buttons/)
 
 
 Large section image in section created with [bootstrap](https://getbootstrap.com/docs/4.5/content/images/)
 
 
-Large section image made by Tobias Tullius via [unsplashed](https://unsplash.com/photos/PXXtq6bp6cs), thank you Tobias!
 
 
 Information about crossfit from [wikipedia](https://en.wikipedia.org/wiki/CrossFit)
@@ -159,9 +167,15 @@ Information about crossfit from [wikipedia](https://en.wikipedia.org/wiki/CrossF
 
 Bootstrap schedule inspiration from [Vega Crossfit schedule section](https://www.vegacrossfit.se/#schema)
 
+Grid responsiveness from [Bootstrap](https://getbootstrap.com/docs/4.5/layout/grid/)
 
+Interactive email with 'mailto' by [Rapid Tables](https://www.rapidtables.com/web/html/mailto.html)
+
+Interactive phone number with 'tel' by [Elegant themes](https://www.elegantthemes.com/blog/wordpress/call-link-html-phone-number)
 
 ### Media
+Large image used for the top of the section of all files exept readme.md is made by Tobias Tullus via [unsplashed](https://unsplash.com/photos/PXXtq6bp6cs), thank you Tobias!
+
 Image used for the 'About us' section in the index.html file is made by Victor Freitas via [unsplashed](https://unsplash.com/photos/Yuv-iwByVRQ), thank you Victor!
 
 
@@ -188,8 +202,8 @@ Card groups from [bootstrap](https://getbootstrap.com/docs/4.5/components/card/#
 
 
 ### Acknowledgements
-I received visuall and structural inspiration for this project from: 
-[Vega crossfit](https://www.vegacrossfit.se/)
+I received visual and structural inspiration for this project from: 
 
+[Vega crossfit](https://www.vegacrossfit.se/)
 
 [Crossfit Unique](https://crossfitunique.com/)
