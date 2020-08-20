@@ -82,6 +82,7 @@ https://developers.google.com/maps/gmp-get-started
 
 
 ## Testing
+Manual testing:
 1. Contact information
     1. Go to the 'Home' page
     1. Scroll down to the footer section and on a computer screen and tablet look to the far left and on a mobile look at the top of the footer.
@@ -131,6 +132,23 @@ https://developers.google.com/maps/gmp-get-started
     1. Press the company logo and confirm that you are redirected to the 'Home' page.
     1. Repeat the process with all of the pages on the website and confirm that all of them redirect to the 'Home' page.
     
+W3C CSS testing:
+
+[W3C CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+    
+W3C Markup testing:
+
+[W3C HTML]()
+
+      
 
 ## Deployment
 
