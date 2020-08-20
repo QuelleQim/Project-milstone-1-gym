@@ -133,8 +133,11 @@ Manual testing:
     1. Repeat the process with all of the pages on the website and confirm that all of them redirect to the 'Home' page.
     
 W3C CSS testing:
+[W3C CSS](https://jigsaw.w3.org/css-validator/)
 
-[W3C CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+Test for the style.css:
+
+[style.css test](https://jigsaw.w3.org/css-validator/validator?uri=https://quelleqim.github.io/Stux-Crossbox-project1/assets/css/style.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -145,10 +148,21 @@ W3C CSS testing:
 </p>
     
 W3C Markup testing:
+[W3C HTML](https://validator.w3.org/nu/)
 
-[W3C HTML]()
+Test for the index.html:
+[index.html test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Findex.html)
 
-      
+Test for the trainers.html:
+[trainers.html test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Ftrainers.html)
+
+Test for the schedule-pricing.html:
+[schedule-pricing.html test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Fschedule-pricing.html)
+
+Test for the find-us.html:
+[find-us.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Ffind-us.html)
+
+- All testing completed without errors or warnings.
 
 ## Deployment
 
