@@ -22,27 +22,36 @@ and information about the employes.
 ### Owner stories
 -	As a owner, I want to have a visually appealing and fully functioning website, so that it can compete with other companies and crossfit boxes.
 -	As a owner, I want to have a company logo prominent throughout the website, which will clarify the owner of the website.
--	As a owner, I want to market the gym via social media, so that people can establish a conection with the gym.
 
 ## Existing Features
 Feature 1 - index.html (Homepage) > header: allows users to navigate throughout 
 the website to the pages "Home", "Trainers", "Schedule & Pricing" and "Find us".
+![Header](assets/images/readme-images/header.png)
 
 Feature 2 - index.html > section: allows users to take part of the owners vision of
 the company, qoutes from members and information about crossfix on a general level.
 This is also a way of marketing for the owners.
+![Header](assets/images/readme-images/appealing-website.png)
 
 Feature 3 - index.html > footer: allows the user to access contact info, opening hours
 and clickable social media links. 
+![Header](assets/images/readme-images/header.png)
 
 Feature 4 - trainers.html: allows users to see pictures of current trainers, their
 skills and experience.
+![Header](assets/images/readme-images/trainers.png)
 
 Feature 5 - schedule & pricing: allows users to see the gyms class schedule and pricing
 for different tiers.
+![Header](assets/images/readme-images/schedule.png)
+![Header](assets/images/readme-images/pricing.png)
 
 Feature 6 - Find us: allows users to find the gym by using the embedded google map with
 the address set.
+![Header](assets/images/readme-images/map.png)
+
+Feature 7: Company logo: The company logo is prominent throughout the webpage, clickable and blends in with the rest of the webpages color scheme.
+![Header](assets/images/readme-images/company-logo.png)
 
 
 ## Technologies Used
