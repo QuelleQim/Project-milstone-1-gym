@@ -191,20 +191,13 @@ To run the project locally one needs to clone the repository and open it in a we
 ### Content
 Company Logo made with the online tool [hatchful.shopify.com](https://hatchful.shopify.com/)
 
-
 Navbar from [bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
-
 
 Far left company logo button in navbar from [bootstrap](https://getbootstrap.com/docs/4.5/components/buttons/)
 
-
 Large section image in section created with [bootstrap](https://getbootstrap.com/docs/4.5/content/images/)
 
-
-
-
 Information about crossfit from [wikipedia](https://en.wikipedia.org/wiki/CrossFit)
-
 
 Bootstrap schedule inspiration from [Vega Crossfit schedule section](https://www.vegacrossfit.se/#schema)
 
@@ -214,23 +207,21 @@ Interactive email with 'mailto' by [Rapid Tables](https://www.rapidtables.com/we
 
 Interactive phone number with 'tel' by [Elegant themes](https://www.elegantthemes.com/blog/wordpress/call-link-html-phone-number)
 
+Markdown styling from [Github guides](https://guides.github.com/features/mastering-markdown/) for headings and [Markdown monster blog](https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec) for images
+
+
 ### Media
 Large image used for the top of the section of all files exept readme.md is made by Tobias Tullus via [unsplashed](https://unsplash.com/photos/PXXtq6bp6cs), thank you Tobias!
 
 Image used for the 'About us' section in the index.html file is made by Victor Freitas via [unsplashed](https://unsplash.com/photos/Yuv-iwByVRQ), thank you Victor!
 
-
 Image used for the 'Qoutes from members' section in the index.html file is made by Sven Mieke via [unsplashed](https://unsplash.com/photos/Lx_GDv7VA9M), thank you Sven!
-
 
 Image used for the 'Why crossfit?' section in the index.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/V3GnMeRhnjk), thank you Alora!
 
-
 Image used for the trainer "Honorine" in the trainers.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/b-JycIqgtS4), thank you Alora!
 
-
 Image used for the trainer "Martin" in the trainers.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/kUN69w8jb4U), thank you Alora!
-
 
 Image used for the trainer "Sara" in the trainers.html file is made by Alora Griffiths via [unsplashed](https://unsplash.com/photos/AFP680B7mxc), thank you Alora!
 
