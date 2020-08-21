@@ -141,6 +141,10 @@ Manual testing:
     1. Press the company logo and confirm that you are redirected to the 'Home' page.
     1. Repeat the process with all of the pages on the website and confirm that all of them redirect to the 'Home' page.
     
+- Repeat all testing on other web browsers to make sure they are compatible with the code. 
+- Tests have been made on: Mozilla Firefox, Google Chrome and Microsoft Edge.
+
+
 W3C CSS testing:
 [W3C CSS](https://jigsaw.w3.org/css-validator/)
 
@@ -171,7 +175,7 @@ Test for the schedule-pricing.html:
 Test for the find-us.html:
 [find-us.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Ffind-us.html)
 
-- Latest testing done 11:42 21-08-2020.
+- Latest testing done 13:51 21-08-2020.
 - All testing completed without errors or warnings.
 
 
