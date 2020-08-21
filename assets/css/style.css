@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap');
 
 body {
-font-family: "Mulish", sans-serif;
+    font-family: "Mulish", sans-serif;
 }
 
 
@@ -17,11 +17,10 @@ nav {
 
 body header nav div ul {
     margin: 0 0 0 2%;
-    
 }
 
  body header nav div ul li a {
-     font-size: 21px;
+    font-size: 21px;
 }
 
 
@@ -123,9 +122,8 @@ body header nav div ul {
 /*-------------------- Find Us --------------------*/
 
 .google-maps-div {
-display: block;
-/* max-width: 50%; */
-height: auto;
+    display: block;
+    height: auto;
 }
 
 .google-maps {
@@ -176,7 +174,7 @@ section div p {
 }
 
  .contact-links {
-     color: #fff;
+    color: #fff;
 }
 
 footer div h6 {
