@@ -175,7 +175,7 @@ Test for the schedule-pricing.html:
 Test for the find-us.html:
 [find-us.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fquelleqim.github.io%2FStux-Crossbox-project1%2Ffind-us.html)
 
-- Latest testing done 13:51 21-08-2020.
+- Latest testing done 14:41 21-08-2020.
 - All testing completed without errors or warnings.
 
 
