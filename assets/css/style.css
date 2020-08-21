@@ -77,6 +77,12 @@ body header nav div ul {
     margin: 20px 0 20px 0; 
 }
 
+.schedule-pricing-info {
+    display: block;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
 .table-header {
     background-color: #47555e;
     color: #fff;
@@ -95,7 +101,7 @@ body header nav div ul {
 
 .pricing-header {
     text-align: center;
-    padding: 10px 15px 5px 15px;
+    margin: 20px 0 20px 0; 
 }
 
 #price-gold {
